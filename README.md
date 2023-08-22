@@ -10,5 +10,3 @@
 <br>Caelum Stella documentation about billet: https://github.com/caelum/caelum-stella/wiki/Gerando-boleto
 <br>Caelum Stella JARs downloads: https://github.com/caelum/caelum-stella/wiki/Downloads-do-caelum-stella
 
-<br><b>Used Libraries: </b>
-<br> ![image](https://github.com/TBadWolf/geradorDeBoletos/assets/104402057/59fd91b1-1778-44e8-b738-c2bf54fd52df)
